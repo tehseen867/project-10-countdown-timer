@@ -1,0 +1,23 @@
+{
+  "name": "project-10-countdown-timer",
+  "version": "1.0.1",
+  "main": "test.js",
+  "type": "module",
+  "bin": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7"
+  }
+}
